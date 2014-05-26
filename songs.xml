@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<smallplayer>
+
+	<song>
+		<title>Where Is The Bassdrum?</title>
+		<url>songs/bassdrum.mp3</url>
+	</song>
+	<song>
+		<title>Don't Stop Rockin</title>
+		<url>songs/rockin.mp3</url>
+	</song>
+	<song>
+		<title>Make My Day</title>
+		<url>songs/day.mp3</url>
+	</song>
+
+</smallplayer>
